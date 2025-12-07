@@ -53,7 +53,7 @@ I enjoy turning complex problems into elegant, maintainable, and efficient softw
 
 ---
 
-## 🧩 Animated Skills & Activity
+## 🧩 Skills & Activity
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=symfony,laravel,react,nextjs,flutter,php,python,java,mysql,git,linux&theme=light" />
